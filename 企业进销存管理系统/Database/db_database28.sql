@@ -15,7 +15,6 @@ Date: 2015-11-30 15:35:42
 
 CREATE DATABASE db_database28;
 USE db_database28
-SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
 -- Table structure for `tb_gysinfo`
